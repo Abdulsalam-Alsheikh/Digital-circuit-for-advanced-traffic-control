@@ -1,4 +1,4 @@
-![state machine of two crossRoads (9) (2)](https://github.com/user-attachments/assets/fa0d0e7e-1e9f-46da-8e9a-7bd2d703f02a)# Traffic Controller - Green Wave Concept
+# Digital circuit for advanced traffic control
 
 This project implements a digital controller designed to manage traffic flow between multiple intersections by applying the green wave concept. The system aims to optimize traffic flow by coordinating traffic lights across several intersections, ensuring smooth passage of vehicles.
 
@@ -24,8 +24,8 @@ The design was tested using ModelSim by simulating different traffic scenarios a
 
 You can find a detailed RTL diagram in RTL.pdf, which provides an in-depth view of the circuit design.
 
-
-![Uploading![image_2023-05-06_00-31-50](https://github.com/user-attachments/assets/62aecd42-4f48-40f4-ace0-9ddcb4429dc2)
-
 ![state machine of two crossRoads (9) (2)](https://github.com/user-attachments/assets/813cc483-8105-4cb4-adaf-f63ae5902905)
+
+[image_2023-05-06_00-31-50](https://github.com/user-attachments/assets/62aecd42-4f48-40f4-ace0-9ddcb4429dc2)
+
 [RTL.pdf](https://github.com/user-attachments/files/17071730/RTL.pdf)
