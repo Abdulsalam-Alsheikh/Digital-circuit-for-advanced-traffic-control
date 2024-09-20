@@ -23,9 +23,9 @@ Output Logic: Directly connected to the output of the memory elements and contro
 The design was tested using ModelSim by simulating different traffic scenarios and validating the performance of the controller under various conditions. The state diagram for the Moor machine is included in the project's documentation for reference.
 
 You can find a detailed RTL diagram in RTL.pdf, which provides an in-depth view of the circuit design.
-
-![state machine of two crossRoads (9) (2)](https://github.com/user-attachments/assets/813cc483-8105-4cb4-adaf-f63ae5902905)
-
-[image_2023-05-06_00-31-50](https://github.com/user-attachments/assets/62aecd42-4f48-40f4-ace0-9ddcb4429dc2)
-
 [RTL.pdf](https://github.com/user-attachments/files/17071730/RTL.pdf)
+
+![state machine of two crossRoads ](https://github.com/user-attachments/assets/813cc483-8105-4cb4-adaf-f63ae5902905)
+
+[ModelSim](https://github.com/user-attachments/assets/62aecd42-4f48-40f4-ace0-9ddcb4429dc2)
+
